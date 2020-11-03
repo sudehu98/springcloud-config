@@ -1,1 +1,2 @@
-11111
+config:
+  info: "master dev ,spring-config/confug-dev.yml version=1"
